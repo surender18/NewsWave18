@@ -5,6 +5,7 @@
 }
 body{
     position: relative;
+    background-color: rgba(169, 166, 169, 0.587);
 }
 .obj-width{
     max-width: 1200px;
